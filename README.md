@@ -25,4 +25,4 @@ This project is a simple implementation of the classic "Simon Says" game. The ga
 
 ## 🛠️ Setup
 1. Clone the repository to your local machine.
-[https://github.com/Pseud0podia/Spotify-Clone.git](https://github.com/Pseud0podia/Spotify-Clone.git)
+[https://github.com/Pseud0podia/Simon-says-game.git](https://github.com/Pseud0podia/Simon-says-game.git)
